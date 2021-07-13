@@ -1,0 +1,16 @@
+
+#home-slider .overlay {
+	background:transparent !important;
+}
+
+.logo-slider {
+	
+}
+
+@media (max-width: 768px) {
+
+	.logo-slider {
+		width:256px;
+	}
+
+}
